@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/umangashrestha7" target="blank"><img src="https://img.shields.io/twitter/follow/umangashrestha7?logo=twitter&style=for-the-badge" alt="umangashrestha7" /></a> </p>
 
-- 🔭 I’m currently working on **Camera Rental**
-
 - 🌱 I’m currently learning **React J.S, Node J.S**
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
