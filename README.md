@@ -1,3 +1,4 @@
+[![MasterHead](https://media3.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif?cid=ecf05e475h0cbgvl46vfzbm37wzo2jagmpc07h9c6wpd60zj&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Umanga Shrestha</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
